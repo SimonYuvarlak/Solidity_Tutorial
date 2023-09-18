@@ -18,7 +18,8 @@ Inside the function, first we increment our counter so that we can update the co
 
 At this point, even though our function is doing what e wanted it to do, which is to create a new proposal, we still have a little modification to do.
 
-
+### Your Task
+Update this create function so that it also takes title as the parameter and creates the proposal accordingly.
 
 
 
