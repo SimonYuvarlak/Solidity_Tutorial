@@ -38,7 +38,8 @@ If you check the function definition, we see that we have used `private` and `vi
 - We used `private` because this function is just a helper function for our previous vote function and it is only being used in the contract.
 - We used `view` because the function only views data from the blockchain and does not alter it.
 
-
+### Your Task
+We can calculate if the proposal is succedded of failed in many ways and this is just one of them. Create your own logic and implement it instead of the one we created above.
 
 
 
