@@ -136,4 +136,5 @@ contract ProposalContract {
 
 ```
 
-
+### Your Task
+Now, this is the contract we created in this tutorial but you also created a similar one with some differences, in the "Your Task" sections. Your final task is to make sure that your final version of the contract is fully functioning. You should test it using the Remix IDE and you should also deploy it to one of the blockchain's testnet that is compatible with EVM. The most popular choices in general are Goerli and Rinkby testnets in Ethereum and BNB Chain Testnet other than Ethereum, but again you can deploy in any testnet that uses EVM. After the deployment, share us the address of your first smart contract!
