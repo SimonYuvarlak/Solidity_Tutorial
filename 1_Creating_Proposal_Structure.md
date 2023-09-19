@@ -65,7 +65,9 @@ So, what would that system be like?
 The next part will be answering this question.
 
 ### Your Task
-Extend the Proposal structure to include a title field of type string. This will allow each proposal to have a brief title in addition to its description.
+- Extend the Proposal structure to include a title field of type string.
+- This will allow each proposal to have a brief title in addition to its description.
+- Submit your code
 
 
 
